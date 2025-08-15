@@ -46,7 +46,7 @@ ProxyCalifier/
 
 ---
 
-Formato del archivo de IPs
+Formato del archivo de IPs "lñista.txt"
 - Una IP por línea.
 - Puedes comentar líneas con #.
 
