@@ -3,6 +3,7 @@
 Archivo: fraudscan.py
 Creador: Viernez13 
 Comunidad: Cybeersecurity
+<img width="539" height="560" alt="image" src="https://github.com/user-attachments/assets/5ce4b19f-b089-4dd4-b4ba-1277c7c4b6ff" />
 
 ---
  Descripción
