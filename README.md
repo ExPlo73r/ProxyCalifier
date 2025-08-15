@@ -9,6 +9,7 @@ Comunidad: Cybeersecurity
 Proxy Califier es una herramienta en Python que analiza un listado de direcciones IP usando la base pública de Scamalytics para identificar aquellas con un Fraud Score bajo, clasificándolas como seguras.
 
 Incluye un banner ASCII de presentación al inicio.
+<img width="1621" height="370" alt="image" src="https://github.com/user-attachments/assets/bf23be38-93b9-416e-8f7a-22d5269dc68e" />
 
 ---
 
